@@ -26,3 +26,11 @@ This script uses the power of Python and popular libraries to seamlessly interac
 Download YTDownloader now and elevate your YouTube experience!
 
 
+---
+
+## CREDIT
+
+All credit goes to [JR-Koders](https://youtube.com/@JR-Koders)
+_Want to learn new things about IT?_
+
+**JR-Koders** is the way-to-go
